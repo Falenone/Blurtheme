@@ -2,7 +2,7 @@
 // @id 	 blurtheme-dark-iitc-skin
 // @name 	 IITC theme: Blurtheme Dark
 // @namespace 	 https://github.com/Falenone/Blurtheme
-// @version 	 1.3
+// @version 	 1.0
 // @updateURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js
 // @downloadURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js
 // @description 	 Blurtheme Dark: Dark
@@ -31,7 +31,7 @@ function wrapper(plugin_info) {
     if (!window.plugin.wasabeeSkins) window.plugin.wasabeeSkins = {};
   };
 
-  // PLUGIN END123 ----------------------------------------------------------
+  // PLUGIN END ----------------------------------------------------------
   setup.info = plugin_info; //add the script info data to the function as a property
   if (!window.bootPlugins) {
     window.bootPlugins = [];
