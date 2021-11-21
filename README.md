@@ -5,7 +5,7 @@
     <img src="images/theme.png" alt="Dark" width="426" height="261">
   </a>
   
- A modern dark theme for [Wasabee](https://wasabee.rocks) and [IITC CE](https://iitc.app) powered by Wasabee's theme engine
+ A modern dark theme for [Wasabee](https://wasabee.rocks) and [IITC CE](https://iitc.app) powered by Wasabee's theme engine that supports a lot of popular IITC scripts
  </div>
 <br />
 <br />
@@ -39,6 +39,34 @@ Go to Wasabee settings (**The Bee**) and click settings (**The cog at the bottom
 Make a light colored theme<br>
 Make IITC theme not dependent on Wasabee
 
+## Supported plugins
+
+Some plugins needed extra toutchup to keep the consistency of colors and such, like: <br>
+
+- Bannergress
+- Player Inventory
+- Portal Multi Export
+- Portal History support
+- Scale bar
+- Bookmarks
+- Portal visited
+- Scoreboard
+- Link prolongation
+- Live inventory
+- Dialog list
+- Draw tools
+- Portal list
+- Keys
+- Uniques
+- Emoji chat
+- Offle
+- Inventory
+- Last action
+- Player tracker add-on
+- Favorite portal details
+- Load more comms history
+- Portal list
+- Portalcounts
 
 ## Contact and bug reports
 
