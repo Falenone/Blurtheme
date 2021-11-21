@@ -31,7 +31,7 @@ function wrapper(plugin_info) {
     if (!window.plugin.wasabeeSkins) window.plugin.wasabeeSkins = {};
   };
 
-  // PLUGIN END ----------------------------------------------------------
+  // PLUGIN END123 ----------------------------------------------------------
   setup.info = plugin_info; //add the script info data to the function as a property
   if (!window.bootPlugins) {
     window.bootPlugins = [];
