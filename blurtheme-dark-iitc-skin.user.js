@@ -2,7 +2,7 @@
 // @id 	 blurtheme-dark-iitc-skin
 // @name 	 IITC theme: Blurtheme Dark
 // @namespace 	 https://github.com/Falenone/Blurtheme
-// @version 	 1.0
+// @version 	 1.3
 // @updateURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js
 // @downloadURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js
 // @description 	 Blurtheme Dark: Dark
