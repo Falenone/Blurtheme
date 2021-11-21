@@ -3,8 +3,8 @@
 // @name 	 IITC theme: Blurtheme Dark
 // @namespace 	 https://github.com/Falenone/Blurtheme
 // @version 	 1.0
-// @updateURL 	 https://github.com/Falenone/Blurtheme/blurtheme-dark-iitc-skin.meta.js
-// @downloadURL 	 https://github.com/Falenone/Blurtheme/blurtheme-dark-iitc-skin.user.js
+// @updateURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js
+// @downloadURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js
 // @description 	 Blurtheme Dark: Dark
 // @author 	 Falenone
 // @include 	 /https?:\/\/.*\.ingress\.com\/?((intel|mission)?(\/?(\?|#).*)?)?/
