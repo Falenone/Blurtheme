@@ -25,6 +25,8 @@
 
 Have [IITC CE](https://iitc.app) and [Wasabee](https://wasabee.rocks) installed in [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or similar userscript manager
 
+[<h3>Click here to install the IITC standalone theme (Wasabee not required)</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js)
+
 [<h3>Click here to install the IITC theme</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js)
 
 [<h3>Click here to install the Wasabee theme</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-wasabee-skin.user.js)
