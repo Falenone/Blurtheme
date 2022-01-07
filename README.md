@@ -33,6 +33,7 @@ Have [IITC CE](https://iitc.app) and [Wasabee](https://wasabee.rocks) installed 
 
 
 ## Usage
+For maximum effect, install both Wasabee and IITC theme and enable both. 
 Install and enable Standalone in your userscript manager, that's all. Do not have both Standalone and powered by wasabee versions installed.
 
 For Wasabee versions install and enable in userscript manager:
