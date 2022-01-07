@@ -27,16 +27,16 @@ Have [IITC CE](https://iitc.app) and [Wasabee](https://wasabee.rocks) installed 
 
 [<h3>Click here to install the IITC standalone theme (No need of Wasabee)</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js)
 
-[<h3>Click here to install the IITC theme</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js)
+[<h3>Click here to install the IITC theme powered by Wasabee</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-skin.user.js)
 
 [<h3>Click here to install the Wasabee theme</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-wasabee-skin.user.js)
 
 
 ## Usage
-Install and enable Standalone, that's all. You only need **one of the IITC themes**, the standalone or Wasabee version installed, **not both**.
+Install and enable Standalone, that's all. Do not have both Standalone and powered by wasabee versions installed.
 
 For Wasabee versions:
-Go to Wasabee settings (**The Bee**) and click settings (**The cog at the bottom**) Then go to **Configure skins** and drag IITC and then wasabee skin to the left box
+Go to Wasabee settings (**The Bee**) and click settings (**The cog at the bottom**) Then go to **Configure skins** and drag the themes to the left box.
 
 ## Roadmap
 
