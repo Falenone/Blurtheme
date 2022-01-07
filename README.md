@@ -39,7 +39,6 @@ Go to Wasabee settings (**The Bee**) and click settings (**The cog at the bottom
 ## Roadmap
 
 Make a light colored theme<br>
-Make IITC theme not dependent on Wasabee
 
 ## Supported plugins
 
