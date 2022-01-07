@@ -33,9 +33,9 @@ Have [IITC CE](https://iitc.app) and [Wasabee](https://wasabee.rocks) installed 
 
 
 ## Usage
-Install and enable Standalone, that's all. Do not have both Standalone and powered by wasabee versions installed.
+Install and enable Standalone in your userscript manager, that's all. Do not have both Standalone and powered by wasabee versions installed.
 
-For Wasabee versions:
+For Wasabee versions install and enable in userscript manager:
 Go to Wasabee settings (**The Bee**) and click settings (**The cog at the bottom**) Then go to **Configure skins** and drag the themes to the left box.
 
 ## Roadmap
