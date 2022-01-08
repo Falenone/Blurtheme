@@ -2,7 +2,7 @@
 // @id 	 iitc-blurtheme
 // @name 	 IITC theme: Blurtheme Dark Standalone
 // @namespace 	 https://github.com/Falenone/Blurtheme
-// @version 	 1.0.2
+// @version 	 1.0.3
 // @updateURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js
 // @downloadURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js
 // @description 	 Blurtheme Dark: Dark
