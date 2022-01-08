@@ -2,7 +2,7 @@
 // @id 	 iitc-blurtheme
 // @name 	 IITC theme: Blurtheme Dark Standalone
 // @namespace 	 https://github.com/Falenone/Blurtheme
-// @version 	 1.0.1
+// @version 	 1.0.2
 // @updateURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js
 // @downloadURL 	 https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js
 // @description 	 Blurtheme Dark: Dark
@@ -701,7 +701,17 @@
 "	white-space: unset;",
 "	/* Didn't let me to do word break if long text*/",
 "	display: inline-block;",
+"	/*Mobile border*/",
+"	border: none!important;",
 "}",
+"/*Mobile stuff*/",
+".linkdetails aside  {",
+"	border: none;",
+"}",
+"#portaldetails .close {",
+"    border: none;",
+"}",
+"/*Mobile end*/",
 "/*Layer off warning in place of portal pic in sidebar when shit disabled too much*/",
 ".layer_off_warning {",
 "	color: var(--lightwhite2);",
