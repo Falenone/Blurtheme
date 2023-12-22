@@ -2,7 +2,7 @@
 <h1 align="center">Blurtheme</h1>
 <br />
   <a href="https://github.com/Falenone/Blurtheme">
-    <img src="images/theme.png" alt="Dark" width="426" height="261">
+    <img src="images/theme.png" alt="Dark" width="465" height="197">
   </a>
   
  A set of modern looking themes for [IITC CE](https://iitc.app) and many of it's plugins
