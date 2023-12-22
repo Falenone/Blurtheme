@@ -36,7 +36,7 @@ Install the plugin, then go to [Ingress intel](https://intel.ingress.com) and on
 ## Roadmap
 
 Light colored theme<br>
-Various color options to choose<br>
+Various color options to choose from<br>
 
 ## Supported plugins
 
