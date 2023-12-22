@@ -15,8 +15,9 @@
 <div align="center">
 
 
-| <img src="images/tooltip.png" alt="Scores" width="253" height="257"><br><img src="images/table.png" alt="Scores" width="345" height="430">  | <img src="images/sidebar.png" alt="Sidebar" width="353" height="938"> |
+| <img src="images/tooltip.png" alt="Scores" width="253" height="257"><br><img src="images/table.png" alt="Scores" width="345" height="430">  | <img src="images/sidebar.png" alt="Sidebar" width="325" height="933"> |
 | ------------- | ------------- |
+<img src="images/tabs.png" alt="Chat" width="390" height="176">
 <img src="images/chat.png" alt="Chat" width="708" height="108">
 </div>
 
