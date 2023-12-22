@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Blurtheme Dark</h1>
+<h1 align="center">Blurtheme</h1>
 <br />
   <a href="https://github.com/Falenone/Blurtheme">
     <img src="images/theme.png" alt="Dark" width="426" height="261">
   </a>
   
- A modern dark theme for [Wasabee](https://wasabee.rocks) and [IITC CE](https://iitc.app) powered by Wasabee's theme engine that supports a lot of popular IITC scripts
+ A set of modern looking themes for [IITC CE](https://iitc.app) and many of it's plugins
  </div>
 <br />
 <br />
@@ -23,7 +23,7 @@
 
 ## Installation
 
-Have [IITC CE](https://iitc.app) and [Wasabee](https://wasabee.rocks) installed in [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or similar userscript manager. Or just IITC and use standalone, without wasabee.
+Have [IITC CE](https://iitc.app) installed in [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or similar userscript manager.
 
 [<h3>Click here to install the IITC standalone theme (No need of Wasabee)</h3>](https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js)
 
