@@ -26,7 +26,7 @@
 
 Have [IITC CE](https://iitc.app) installed in [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or similar userscript manager.
 
-[<h3>Click here to install the the plugin</h3>]([https://github.com/Falenone/Blurtheme/raw/main/blurtheme-dark-iitc-standalone.user.js](https://github.com/Falenone/Blurtheme/raw/main/IITC-plugin-Blurtheme.user.js))
+[Install Blurtheme](https://github.com/Falenone/Blurtheme/raw/main/IITC-plugin-Blurtheme.user.js)
 
 
 
